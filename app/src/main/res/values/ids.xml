@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_number1" type="id" />
+    <item name="et_number2" type="id" />
+    <item name="et_result" type="id" />
+    <item name="bt_division" type="id" />
+</resources>

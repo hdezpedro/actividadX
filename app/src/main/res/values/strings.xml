@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba Diseño LinearLayout</string>
+    <string name="rest" />
+    <string name="add" />
+    <string name="multiplication" />
+    <string name="division" />
+    <string name="module" />
+</resources>
